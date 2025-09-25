@@ -1,8 +1,18 @@
 # Welcome to Python Data & Math explorer!
 
 name = input("Enter your name: ")
-age = int(input("Enter your age: "))
-height = float(input("Enter your height in meters: "))
+
+try:
+    age = int(input("Enter your age: "))
+except ValueError:
+    print("Invalid input for age. Please enter a number.")
+    age = int(input("Enter your age: "))
+
+try:
+    height = float(input("Enter your height in meters: "))
+except ValueError:
+    print("Invalid input for height. Please enter a decimal number.")
+    height = float(input("Enter your height in meters: "))
 
 # Math operations
 print("\n--- Math Operations ---")
