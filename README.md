@@ -14,7 +14,7 @@ No special setup needed – just Python 3.x.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Coleg-Gwent-Cyber-College-Python.git
+   git clone https://github.com/tomttfb/Coleg-Gwent-Cyber-College-Python.git
    ```
    (Update with your actual repo URL.)
 
