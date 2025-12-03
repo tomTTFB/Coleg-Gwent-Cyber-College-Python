@@ -55,6 +55,29 @@ Brief overviews of the scripts I built:
 
 - **smoothie.py**: Smoothie cost estimator with input validation, error handling, and conditionals.
 
+- **tkinterapp.py**: Simple graphical window with a button. Demonstrates basic usage of Python's Tkinter library for GUI applications. When you click the button, it prints a message to the terminal.
+
+- **oopExample.py**: Demonstrates object-oriented programming with a `Student` class, including attributes, a constructor, and a method to calculate the average grade.
+
+- **proceduralexample.py**: Shows procedural programming with a function to calculate the average of a list, and includes code dissection tasks for identifying programming concepts.
+
+- **student-grading-program.py**: Interactive program for entering student names and scores, storing them in lists and dictionaries, and reporting pass/fail/probation status.
+
+- **work.py**: Contains code dissection challenges for procedural, object-oriented, and event-driven programming, with instructions for identifying code elements.
+
+- **arrays.py**: Demonstrates array (list) operations and manipulations in Python.
+
+- **java_to_py.py**: Multi-room painting cost calculator with user inputs for dimensions, paint types, undercoat options, and VAT calculations.
+
+- **matrix.py**: Matrix operations and examples (in development).
+
+- **namingconventions.py**: Examples of Python naming conventions (snake_case, CamelCase, etc.).
+
+- **queues.py**: Queue data structure implementation and usage.
+
+- **stacks.py**: Stack data structure implementation using lists.
+
+- **Validation_Techniques_Blank.py**: Template for practicing various input validation techniques.
 ## Contributing
 If you'd like to suggest improvements or add your own learning examples, feel free to fork and submit a pull request. Open an issue for discussions.
 
